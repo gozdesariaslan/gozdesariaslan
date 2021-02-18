@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gözde</h1>
-<h3 align="center">I'm Junior Software Engineer and i'm improving my develop skills</h3>
+<h3 align="center">I'm Junior Software Engineer and i'm improving my coding skills. You can find my all practices in here.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gozdesariaslan&label=Profile%20views&color=0e75b6&style=flat" alt="gozdesariaslan" /> </p>
 
