@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gözde</h1>
-<h3 align="center">Hi, I'm Gözde 👋 Software Support Specialist and Master's student in Computer Engineering. Interested in Artificial Intelligence, Large Language Models (LLMs), control systems, and intelligent data-driven applications.</h3>
+<h3 align="center">Hi, I'm Gözde 👋 Application Support Specialist and Master's student in Computer Engineering. Interested in Artificial Intelligence, Large Language Models (LLMs), control systems, and intelligent data-driven applications.</h3>
 
 - 🔭 I’m currently working on **LLM-based Meta-Control System for Dynamic Systems**
 
